@@ -43,7 +43,7 @@ endif
 endif
 
 # Enable nvidia framework enhancements if available
--include vendor/lineage/product/nvidia.mk
+-include vendor/derp/product/nvidia.mk
 
 # Properties
 include device/nvidia/tegra-common/properties.mk
